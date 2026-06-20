@@ -12,11 +12,13 @@
 
 <!-- BADGES ROW -->
 ![Profile Views](https://komarev.com/ghpvc/?username=StillJun&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
+[![Live App](https://img.shields.io/badge/LIVE_APP-SubManager-00ff88?style=for-the-badge&logo=vercel&logoColor=white)](https://submanager-mocha.vercel.app)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stilljun.github.io/Portfolio/)
-![Status](https://img.shields.io/badge/STATUS-BUILDING-00ff88?style=for-the-badge&logo=target&logoColor=white)
-![Location](https://img.shields.io/badge/WROCLAW-POLAND-00d4ff?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/WROCLAW-POLAND-5b8def?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
+
+<br>
 
 ---
 
@@ -24,14 +26,32 @@
 
 ```yaml
 name:       Adam Borshchenko
-role:       Junior Web Developer
-focus:      Full-stack development → Cybersecurity
+role:       Junior Web Developer  ->  Cybersecurity
 education:  Technikum Nauk Nowoczesnych Terra Nova — Programming Technician (4th year)
 based_in:   Wrocław, Poland
-languages:  Ukrainian (native) · Russian (native) · Polish (B2)
+languages:  Ukrainian (native) · Russian (native) · Polish (B2) · English (B1)
 portfolio:  stilljun.github.io/Portfolio
-mindset:    "build it, break it, understand it, fix it"
+mindset:    "build it, break it, understand it, ship it again"
 ```
+
+<br>
+
+---
+
+### `> featured` — SubManager (live full-stack SaaS)
+
+> **A subscription tracker that adds up your real monthly spend and flags forgotten subscriptions.**
+> Built and **deployed end-to-end**: React + TypeScript front end, Node/Express API, PostgreSQL, JWT auth.
+
+🔗 **Live:** [submanager-mocha.vercel.app](https://submanager-mocha.vercel.app) &nbsp;·&nbsp; 💻 **Code:** [github.com/StillJun/submanager](https://github.com/StillJun/submanager)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+<br>
 
 ---
 
@@ -39,33 +59,11 @@ mindset:    "build it, break it, understand it, fix it"
 
 <div align="center">
 
-**Languages & Core**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-**Web & Markup**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Database & Systems**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,php,html,css,postgres,mysql,linux,csharp,git,github,bash&theme=dark" />
 
 </div>
+
+<br>
 
 ---
 
@@ -74,11 +72,12 @@ mindset:    "build it, break it, understand it, fix it"
 ```
 HTML / CSS      ████████████████████░░░░  85%
 JavaScript      ███████████████░░░░░░░░░  65%
+TypeScript      █████████████░░░░░░░░░░░  55%   [shipped a live app]
 PHP             ████████████████░░░░░░░░  70%
 MySQL           ███████████████░░░░░░░░░  65%
 Python          █████████████████░░░░░░░  70%
+Node.js         ███████████░░░░░░░░░░░░░  48%
 C#              █████████████░░░░░░░░░░░  55%
-Node.js         ████████░░░░░░░░░░░░░░░░  35%
 Cybersecurity   ██████████░░░░░░░░░░░░░░  40%   [learning now]
 ```
 
@@ -88,25 +87,26 @@ Cybersecurity   ██████████░░░░░░░░░░░�
 
 | Project | Stack | Status |
 |---|---|---|
+| [`submanager`](https://github.com/StillJun/submanager) — [**live demo**](https://submanager-mocha.vercel.app) | React, TS, Node, PostgreSQL, JWT | 🟢 Live |
+| [`auth-system`](https://github.com/StillJun/auth-system) | PHP, MySQL, Sessions, RBAC | 🟢 Done |
 | [`sql-query-builder`](https://github.com/StillJun/sql-query-builder) | C#, OOP, Fluent Interface | 🟢 Done |
-| [`port-scanner`](https://github.com/StillJun/port-scanner) | Python, Sockets | 🟢 Done |
-| [`auth-system`](https://github.com/StillJun/auth-system) | PHP, MySQL, Sessions | 🟢 Done |
-| [`portfolio`](https://stilljun.github.io/Portfolio/) | HTML, CSS, JS | 🟢 Live |
 | [`password-checker`](https://github.com/StillJun/password-checker) | Python, Security, HIBP API | 🟢 Done |
+| [`port-scanner`](https://github.com/StillJun/port-scanner) | Python, Sockets | 🟢 Done |
 | [`price-monitor`](https://github.com/StillJun/price-monitor) | Python, Web Scraping | 🟢 Done |
-| [`ctf-writeups`](https://github.com/StillJun/ctf-writeups) | Markdown, Security | 🟢 Ongoing |
+| [`portfolio`](https://stilljun.github.io/Portfolio/) | HTML, CSS, JS | 🟢 Live |
+| [`ctf-writeups`](https://github.com/StillJun/ctf-writeups) | Markdown, Security | 🟡 Ongoing |
 
 > Full write-ups and live demos: **[stilljun.github.io/Portfolio](https://stilljun.github.io/Portfolio/)**
-> 📌 Pinned repos on this profile always reflect what I'm actively working on right now.
 
 ---
 
 ### `> learning_path_2026`
 
 ```
-[DONE]    Full PHP + MySQL auth system with RBAC and brute-force protection
+[DONE]    Full-stack SaaS, deployed live (React/TS + Node + PostgreSQL + JWT)
+[DONE]    PHP + MySQL auth system with RBAC and brute-force protection
 [DONE]    Multithreaded Python port scanner with banner grabbing
-[NOW]     C# & Object-Oriented Programming
+[NOW]     TypeScript & modern React
 [NOW]     Network fundamentals (TCP/IP, protocols)
 [NEXT]    Ethical hacking basics (Nmap, Wireshark, Burp Suite)
 [NEXT]    CTF challenges (picoCTF, HackTheBox)
@@ -119,29 +119,12 @@ Cybersecurity   ██████████░░░░░░░░░░░�
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=StillJun&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00D4FF&text_color=C8D0DA"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=StillJun&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00D4FF&text_color=C8D0DA&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StillJun&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C8D0DA"/>
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=StillJun&theme=react&hide_border=true&background=0D1117&ring=00FF88&fire=00D4FF&currStreakLabel=00FF88"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=StillJun&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00FF88&point=FFFFFF&hide_border=true" width="100%"/>
-
 </div>
 
----
-
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-<div align="center">
-
-### `> contribution_snake`
-
-<img src="https://raw.githubusercontent.com/StillJun/StillJun/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
+<br>
 
 ---
 
@@ -150,20 +133,8 @@ Cybersecurity   ██████████░░░░░░░░░░░�
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamborshchenko@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://stilljun.github.io/Portfolio/)
+[![Live App](https://img.shields.io/badge/SubManager-Live_Demo-00ff88?style=for-the-badge&logo=vercel&logoColor=white)](https://submanager-mocha.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stilljun.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StillJun)
-
-</div>
-
----
-
-<div align="center">
-
-```
-"The quieter you become, the more you are able to hear."
-                                          — Kali Linux
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&reversed=true"/>
 
 </div>
